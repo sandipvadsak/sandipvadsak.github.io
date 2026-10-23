@@ -1,0 +1,19 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": 3,
+   "from": 201,
+   "to": 300,
+   "file": "pack_003.json",
+   "sha256": "597b594dc6ce16dc141f7c6459a3f802062d788573d5e2d05d151514a52a7268"
+  },
+  {
+   "id": 4,
+   "from": 301,
+   "to": 400,
+   "file": "pack_004.json",
+   "sha256": "0057da580dfb4fd16945d0a5c0ae5a93e0c907fd4a58ee4c749fab675552759b"
+  }
+ ]
+}

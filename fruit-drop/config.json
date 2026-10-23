@@ -1,0 +1,10 @@
+{
+  "inter_min_stage": 12,
+  "inter_gap_s": 100,
+  "inter_every_rounds": 3,
+  "inter_daily_cap": 15,
+  "free_coins_daily_cap": 5,
+  "free_coins_rv": 100,
+  "welcome_back_coins": 300,
+  "min_version_code": 0
+}
